@@ -8,7 +8,7 @@ Para pruebas conectarse a una vpn Y luego usar los comandos de termux:
 
 apt update && apt upgrade pkg install python3 pkg install git
 
-git clone https://github.com/Vicray27/Picker-Ray/tree/main
+git clone https://github.com/Vicray27/Picker-Ray
 
 cd Picker
 
